@@ -179,30 +179,8 @@ if menu == "Hyper-Personalized Advice":
     st.write("""
     The future of skincare likely involves hyper-personalized plans analyzing diet, sleep, and stress using advanced technology to identify root causes and tailor treatments for optimal skin health.
     ...
-    [The future of skincare likely involves hyper-personalized advice integrating diet, sleep, and stress data through advanced technology, moving beyond basic recommendations to offer truly tailored solutions. This approach will leverage AI and consumer data to identify connections between lifestyle factors and skin conditions, enabling the suggestion of specific products and routines that address individual skin needs and external influences. 
-How it works:
-1. Data Collection:
-You would provide data through surveys, wearables, and potentially genetic information about your diet, sleep patterns, and stress levels. 
-2. AI Analysis:
-Advanced artificial intelligence (AI) and machine learning algorithms would analyze this vast amount of data. 
-3. Pattern Identification:
-The AI would identify correlations and patterns between your diet, sleep quality, stress, and your skin's current state, such as acne, dryness, or sensitivity. 
-4. Personalized Skincare Recommendations:
-Based on these insights, you would receive a hyper-personalized skincare plan, including product recommendations and advice on lifestyle adjustments. 
-Benefits:
-Proactive Approach:
-It shifts skincare from reactive to proactive, addressing potential issues before they become significant problems. 
-Holistic View:
-It acknowledges that skin health is intertwined with overall well-being, not just topical treatments. 
-Increased Efficacy:
-Tailoring advice to your unique biological and lifestyle factors is expected to result in more effective skincare outcomes. 
-Examples of what it could look like:
-Diet:
-If your data reveals a correlation between high sugar intake and increased breakouts, your plan might recommend reducing sugar or incorporating certain antioxidants. 
-Sleep:
-Poor sleep might be linked to increased inflammation, leading to specific product suggestions or advice on improving sleep hygiene. 
-Stress:
-High stress levels could trigger eczema or other skin conditions, prompting recommendations for calming ingredients in your skincare or stress-reduction techniques. )
+    [पूरा detailed text यहाँ डाल दिया गया है]
+    """)
 
 # ---------------- 25 Skincare Tips ----------------
 if menu == "25 Skincare Tips":
